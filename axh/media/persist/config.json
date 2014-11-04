@@ -1,0 +1,4 @@
+{
+    "connection_string": "sqlite:///S:\\movies.db",
+    "echo_sql": true
+}
